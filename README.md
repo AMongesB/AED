@@ -1,4 +1,3 @@
-
 # <p align="center" style="color: rgb(204, 204, 204)">__Algoritmos y Estructura de Datos__</p>
 
 ### Lista de ejercicios:

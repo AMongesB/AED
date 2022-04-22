@@ -1,4 +1,4 @@
-# <p style="text-align: center; color: rgb(204, 204, 204)"><b>Trabajo #0 - "Hello, World!" en C++</b></p>
+# <p align="center" style="color: rgb(204, 204, 204)">__Trabajo #0 - "Hello, World!" en C++__</p>
 
 <span>Por consigna, se indica que éste ejercicio fue realizado con el compilador __MinGW__, en su versión 6.3.0 y el archivo output.txt se ubica [aquí](/00-CppHelloWorld/output.txt).</span>
 
