@@ -5,4 +5,4 @@
 
 Lista de ejercicios:
 
-* [Trabajo #0 - "Hello, World!" en C++](../AED/00-CppHelloWorld)
+* [Trabajo #0 - "Hello, World!" en C++](/00-CppHelloWorld)
