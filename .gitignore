@@ -1,0 +1,10 @@
+# Archivos objecto
+/**/*.o
+/**/*.obj
+
+# Ejecutables
+/**/*.exe
+
+# Archivos de editor
+.vs
+.vscode
