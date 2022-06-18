@@ -1,4 +1,4 @@
-# Archivos objecto
+# Archivos binarios
 /**/*.o
 /**/*.obj
 
@@ -8,3 +8,4 @@
 # Archivos de editor
 .vs
 .vscode
+*.vcxproj*
