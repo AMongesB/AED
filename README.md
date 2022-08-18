@@ -2,6 +2,7 @@
 
 ### Lista de ejercicios:
 * [Trabajo #0 - "Hello, World!" en C++](/00-CppHelloWorld)
+* [Trabajo #1 - "Ejemplos de Assert" en C++](/01-EjemplosAssert)
 
 ### Información del alumno y del curso:
 * Profesor: Ing. José María Sola.
